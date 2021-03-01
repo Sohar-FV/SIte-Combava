@@ -5,3 +5,9 @@ Un site One-page pour promouvoir un évènement de vente de limonade. Ce site a 
 ## Démarrage
 
 Vous pouvez accéder à l'application via le lien suivant : https://sohar-fv.github.io/Site-Combava/
+
+
+## Auteurs
+
+* **Tom SOUDET** _alias_ [@Tomsoudet](https://github.com/Tomsoudet)
+* **Florian VIVET** _alias_ [@Sohar-FV](https://github.com/Sohar-FV)
